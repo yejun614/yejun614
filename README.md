@@ -5,7 +5,7 @@ AI 기술을 통해 새로운 가치를 만들고, 견고한 웹 서비스를 �
 
 <p align="center">
   <a href="https://solved.ac/yejun614">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yejun614" alt="Solved.ac Profile"/>
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yejun614" alt="Solved.ac Profile"/>
   </a>
 </p>
 
